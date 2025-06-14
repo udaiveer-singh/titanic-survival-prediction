@@ -1,0 +1,25 @@
+Python-related files
+
+pycache/ \*.pyc \*.pyo \*.pyd .Python env/ venv/ .venv/ pip-log.txt pip-delete-this-directory.txt
+
+Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+Large datasets (exclude Titanic dataset if &gt;100MB)
+
+data/\*.csv
+
+\*.csv
+
+IDE-specific files
+
+.vscode/ .idea/
+
+System files
+
+.DS_Store Thumbs.db
+
+Other temporary files
+
+\*.log \*.tmp \*.bak
